@@ -1,3 +1,4 @@
+#for github
 class Invoice:
     def __init__(self, *args, **kwargs):
         self.bulstat = kwargs.get('bulstat', None)

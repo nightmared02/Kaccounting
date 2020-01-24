@@ -1,3 +1,4 @@
+#for github
 import contragents
 import sqlite3
 
